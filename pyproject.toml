@@ -11,6 +11,7 @@ sklearn2 = "^0.0.13"
 scipy = "^1.6.1"
 scipy-extra = "^0.1"
 networkx = "^2.6.3"
+igraph = "^0.9.8"
 
 [tool.poetry.dev-dependencies]
 
